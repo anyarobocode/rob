@@ -37,7 +37,12 @@
     ],
     "products": [
         {
+<<<<<<< HEAD
             "product": "servo"
+=======
+            "name": "grib",
+            "type": "good grib"
+>>>>>>> 5a518807e6eb0b7290168f54c06a1a269e75c2ba
         }
     ]
 }
