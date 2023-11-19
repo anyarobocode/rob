@@ -1,34 +1,39 @@
 {
     "users": [
         {
-        "id": 1,
-        "name": "masha",
-        "sirname": "mama",
-        "photo_url": "https://cdn.kasta.ua/image/1035/s3/supplier_provided_link/bb3/b04/c3a/457/a35/fd9/0c9/367/d7e.jpeg",
-        "balance": 4567897542
+            "id": 1,
+            "name": "masha",
+            "sirname": "mama",
+            "photo_url": "https://cdn.kasta.ua/image/1035/s3/supplier_provided_link/bb3/b04/c3a/457/a35/fd9/0c9/367/d7e.jpeg",
+            "balance": 4567897542
         }
         {
-        "id": 2,
-        "name": "maks",
-        "sirname": "tato",
-        "photo_url": "https://cdn.kasta.ua/image/1035/s3/supplier_provided_link/bb3/b04/c3a/457/a35/fd9/0c9/367/d7e.jpeg",
-        "balance": 792316
+            "id": 2,
+            "name": "maks",
+            "sirname": "tato",
+            "photo_url": "https://cdn.kasta.ua/image/1035/s3/supplier_provided_link/bb3/b04/c3a/457/a35/fd9/0c9/367/d7e.jpeg",
+            "balance": 792316
         }
         
             {
-                "id": 3,
-                "name": "Vlad",
-                "sirname":"Voleuchuk",
-                "photo_url": "",
-                "balance": 1488
-            }
+            "id": 3,
+            "name": "Vlad",
+            "sirname": "Voleuchuk",
+            "photo_url": "",
+            "balance": 1488
+        }
             {
-                "id": 4,
-                "name": "MAX",
-                "sirname": "tkach331",
-                "balance": 10101010
-            }
-        ]
-
-    
+            "id": 4,
+            "name": "MAX",
+            "sirname": "tkach331",
+            "balance": 10101010
+        }
+            {
+            "id": 5,
+            "name": "Anya",
+            "sirname": "yun",
+            "photo_url": "https://avatars.githubusercontent.com/u/149950177?s=48&v=4",
+            "balance": 0
+        }
+    ]
 }
