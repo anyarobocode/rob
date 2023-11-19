@@ -14,7 +14,6 @@
             "photo_url": "https://cdn.kasta.ua/image/1035/s3/supplier_provided_link/bb3/b04/c3a/457/a35/fd9/0c9/367/d7e.jpeg",
             "balance": 792316
         },
-        
         {
             "id": 3,
             "name": "Vlad",
@@ -22,14 +21,12 @@
             "photo_url": "",
             "balance": 1488
         },
-        
         {
             "id": 4,
             "name": "MAX",
             "sirname": "tkach331",
             "balance": 10101010
         },
-        
         {
             "id": 5,
             "name": "Anya",
@@ -40,11 +37,21 @@
     ],
     "products": [
         {
+        "name": "gorilka"
+        },
+        
+        {
+            "product": "servo"
+        },
+        {
             "name": "grib",
             "type": "good grib"
         },
+        
         {
             "name": "kolovrat"
+
         }
+
     ]
 }
