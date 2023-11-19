@@ -37,6 +37,7 @@
     ],
     "products": [
         {
+<<<<<<< HEAD
         "name": "gorilka"
         },
         
@@ -44,6 +45,13 @@
             "product": "servo"
         },
         {
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+            "name": "kastryla"
+=======
+            "product": "servo"
+
             "name": "grib",
             "type": "good grib"
         },
@@ -53,4 +61,4 @@
         }
 
     ]
-}
+} fgsidau
