@@ -15,5 +15,13 @@
         "balance": 792316
         }
         
-    ]
+            {
+                "id": 3,
+                "name": "Vlad",
+                "sirname":"Voleuchuk",
+                "photo_url": "",
+                "balance": 1488
+            }
+        ]
+    
 }
