@@ -38,5 +38,9 @@
             "balance": 0
         }
     ],
-    "products": []
+    "products": [
+        {
+            "name": "gorilka"
+        }
+    ]
 }
