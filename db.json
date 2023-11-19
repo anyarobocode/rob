@@ -38,16 +38,13 @@
             "balance": 0
         }
     ],
-<<<<<<< HEAD
-    "products": [{
-        "name": "kolovrat"
-    }]
-=======
     "products": [
         {
             "name": "grib",
             "type": "good grib"
+        },
+        {
+            "name": "kolovrat"
         }
     ]
->>>>>>> 5a518807e6eb0b7290168f54c06a1a269e75c2ba
 }
