@@ -38,5 +38,10 @@
             "balance": 0
         }
     ],
-    "products": []
+    "products": [
+        {
+            "name": "grib",
+            "type": "good grib"
+        }
+    ]
 }
