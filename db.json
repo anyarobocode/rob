@@ -35,6 +35,11 @@
             "balance": 0
         }
     ],
+<<<<<<< HEAD
+    "products": [{
+        "name": "kolovrat"
+    }]
+=======
     "products": [
         {
 <<<<<<< HEAD
@@ -45,4 +50,5 @@
 >>>>>>> 5a518807e6eb0b7290168f54c06a1a269e75c2ba
         }
     ]
+>>>>>>> 5a518807e6eb0b7290168f54c06a1a269e75c2ba
 }
