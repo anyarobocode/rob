@@ -13,23 +13,23 @@
         }
  {
         
-        "name": "windows"
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg/1200px-Unofficial_fan_made_Windows_7_logo_variant.svg.png"
+        "name": "windows",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg/1200px-Unofficial_fan_made_Windows_7_logo_variant.svg.png",
         "price": "50$"
         }
  {
-        "name":"grib"
-        "image": "https://florium.ua/media/catalog/product/cache/1/file/9df78eab33525d08d6e5fb8d27136e95/p/o/polskiy-grib-mizzeliy.jpg" 
+        "name":"grib",
+        "image": "https://florium.ua/media/catalog/product/cache/1/file/9df78eab33525d08d6e5fb8d27136e95/p/o/polskiy-grib-mizzeliy.jpg",
         "price": "100$"
         }
  {
-        "name": "kanabis"
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cannabis_sativa.jpg/268px-Cannabis_sativa.jpg"
+        "name": "kanabis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cannabis_sativa.jpg/268px-Cannabis_sativa.jpg",
         "price": "100$"
         }
  {
-      "name": "zxc cat"
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcAng3KoshroMnlzE_F0YsSygFBU6jiHsISg&usqp=CAU"
+      "name": "zxc cat",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcAng3KoshroMnlzE_F0YsSygFBU6jiHsISg&usqp=CAU",
         "price": "1000-7"
         }
     ]
