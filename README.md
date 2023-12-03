@@ -1,4 +1,4 @@
-# robototectika
+# robo
 project
 ky :) 
 ky brat
