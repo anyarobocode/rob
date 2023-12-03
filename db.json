@@ -12,9 +12,10 @@
         "price": 50
         }
  {
-        "name": ;
-        "image": ;
-        "price": ;
+        
+        "name": "windows";
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg/1200px-Unofficial_fan_made_Windows_7_logo_variant.svg.png";
+        "price": "50$";
         }
  {
         "name":"grib"
