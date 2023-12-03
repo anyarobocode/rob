@@ -17,9 +17,9 @@
         "price": ;
         }
  {
-        "name": ;
-        "image": ;
-        "price": ;
+        "name":"grib";
+        "image": "https://florium.ua/media/catalog/product/cache/1/file/9df78eab33525d08d6e5fb8d27136e95/p/o/polskiy-grib-mizzeliy.jpg" ;
+        "price": "100$";
         }
  {
         "name": ;
