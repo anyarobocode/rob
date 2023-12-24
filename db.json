@@ -25,7 +25,7 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
+            "name": "Ялинка",
             "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
             "price": 92,
             "author_id": 1,
