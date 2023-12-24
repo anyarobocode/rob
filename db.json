@@ -4,16 +4,14 @@
             "id": 1,
             "name": "Ялинка",
             "description": "Яскрава ялинка на Новий рік, яка забезпечить новорічний настрій всій родині (та буде зламана котиком)",
-            "price": <b>92</b>,
-            "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "price": 882₴,
+            "photo_url": "https://zelena.ua/storage/27296/elka-beiberry-stroinaya-pc.jpg"
         },
         {
             "id": 2,
             "name": "Arduino UNO",
             "description": "Brand new and high quality.",
             "price": 180,
-            "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
         },
         {
@@ -21,7 +19,6 @@
             "name": "ESP8266 5V",
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
             "price": 300,
-            "author_id": 2,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
         },
         {
@@ -29,7 +26,6 @@
             "name": "RGB",
             "description": "Can make color party.",
             "price": 92,
-            "author_id": 1,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
         },
         {
@@ -37,7 +33,6 @@
             "name": "Resistor 10k Ohm",
             "description": "Can resist the voltage. Super cool.",
             "price": 180,
-            "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
         },
         {
@@ -45,7 +40,6 @@
             "name": "7-Segment Display",
             "description": "Epic.",
             "price": 300,
-            "author_id": 2,
             "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
         }
     ]
